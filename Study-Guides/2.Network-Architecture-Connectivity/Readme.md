@@ -95,7 +95,7 @@ This section provides a brief introduction to the essential AWS services covered
 ### Amazon Route 53:
 
 <p align="left">
-  <img src="Images/aws-route53.png" alt="AWS route53" width="50">
+  <img src="Images/aws-route53.png" alt="AWS route53" width="100">
 </p>
 
 * Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. 
@@ -117,7 +117,7 @@ This section provides a brief introduction to the essential AWS services covered
 ### AWS VPN (Virtual Private Network):
 
 <p align="left">
-  <img src="Images/aws-vpn.png" alt="AWS VPN" width="50">
+  <img src="Images/aws-vpn.png" alt="AWS VPN" width="100">
 </p>
 
 * AWS VPN provides secure and private connections between your on-premises networks, remote offices, client devices, and the AWS Cloud over the public internet. 
@@ -139,7 +139,7 @@ This section provides a brief introduction to the essential AWS services covered
 ### Elastic Load Balancing (ELB):
 
 <p align="left">
-  <img src="Images/Amazon-ELB.png" alt="AWS ELB" width="50">
+  <img src="Images/Amazon-ELB.png" alt="AWS ELB" width="100">
 </p>
 
 * Elastic Load Balancing automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions, in one or more Availability Zones. 
@@ -169,7 +169,7 @@ This section provides a brief introduction to the essential AWS services covered
 ### Amazon CloudFront:
 
 <p align="left">
-  <img src="Images/aws-cloudfront.png" alt="AWS CloudFront" width="50">
+  <img src="Images/aws-cloudfront.png" alt="AWS CloudFront" width="100">
 </p>
 
 * Amazon CloudFront is a fast and secure Content Delivery Network (CDN) service that globally distributes your content, including web assets (HTML, CSS, JS, images), video, and APIs. By caching content at edge locations worldwide, CloudFront reduces latency and improves the performance and user experience for your applications.
