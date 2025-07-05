@@ -139,7 +139,7 @@ This section provides a brief introduction to the essential AWS services covered
 ### Elastic Load Balancing (ELB):
 
 <p align="left">
-  <img src="Images/Amazon-ELB.png" alt="AWS ELB" width="100">
+  <img src="Images/Amazon-ELB.png" alt="AWS ELB" width="150">
 </p>
 
 * Elastic Load Balancing automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions, in one or more Availability Zones. 
