@@ -1,5 +1,9 @@
 # AWS Database Management and Services:
 
+<p align="left">
+  <img src="Images/aws-database-services.png" alt="AWS Dtabase Services" width="500">
+</p>
+
 In the dynamic landscape of cloud computing, effective data management is paramount for building robust, scalable, and highly available applications. The AWS Solutions Architect - Professional certification demands a deep understanding of how to choose, design, and implement the right database solutions for diverse and complex workloads. AWS offers a comprehensive suite of managed database services, freeing architects from the undifferentiated heavy lifting of traditional database administration, such as hardware provisioning, patching, backups, and scaling.
 
 As an AWS Certified Solutions Architect, it’s crucial to understand how to choose the right database solution for a given workload, design for scalability and reliability, and leverage AWS-managed offerings to reduce operational complexity.
