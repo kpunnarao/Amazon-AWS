@@ -172,7 +172,9 @@ This section provides a brief introduction to the essential AWS services covered
   <img src="Images/aws-cloudfront.png" alt="AWS CloudFront" width="100">
 </p>
 
-* Amazon CloudFront is a fast and secure Content Delivery Network (CDN) service that globally distributes your content, including web assets (HTML, CSS, JS, images), video, and APIs. By caching content at edge locations worldwide, CloudFront reduces latency and improves the performance and user experience for your applications.
+* Amazon CloudFront is a fast and secure Content Delivery Network (CDN) service that globally distributes your content, including web assets (HTML, CSS, JS, images), video, and APIs. 
+
+* By caching content at edge locations worldwide, CloudFront reduces latency and improves the performance and user experience for your applications.
 
 #### Key Concepts:
 
