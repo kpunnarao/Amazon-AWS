@@ -21,6 +21,8 @@ AWS provides a comprehensive and ever-evolving suite of managed services that ad
 
 This section will cover the key AWS services involved in Big Data and analytics, their use cases, and how to combine them to create robust and efficient data pipelines.
 
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
+
 ## Important AWS Analytics and Big Data Services:
 
 AWS offers a vast array of services for analytics and Big Data, each purpose-built for specific stages of the data pipeline or specific types of analysis. For the AWS Solutions Architect - Professional exam, a deep understanding of the following services is paramount:
@@ -44,6 +46,8 @@ AWS offers a vast array of services for analytics and Big Data, each purpose-bui
 * Amazon OpenSearch Service (formerly Amazon Elasticsearch Service)
 
 * AWS Data Pipeline
+
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
 
 ## Amazon Kinesis:
 
@@ -74,6 +78,8 @@ A family of services designed for processing streaming data in real-time. This i
 * Scaling shards in KDS to handle increasing throughput.
 
 * Integration with AWS Lambda for event-driven processing.
+
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
 
 ## AWS Glue:
 
@@ -109,6 +115,8 @@ A fully managed extract, transform, and load (ETL) service that makes it easy to
 
 * Integration with S3 for data lake operations.
 
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
+
 ## Amazon EMR (Elastic MapReduce):
 
 <p align="left">
@@ -134,6 +142,8 @@ A managed cluster platform that simplifies running big data frameworks like Apac
 * Ability to scale clusters up and down based on demand for cost optimization (e.g., using Spot Instances).
 
 * Integration with S3 for data storage, separating compute from storage.
+
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
 
 ## Amazon Athena:
 
@@ -161,6 +171,8 @@ An interactive query service that makes it easy to analyze data in Amazon S3 usi
 
 * Supports various data formats including CSV, JSON, Parquet, and ORC.
 
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
+
 ## Amazon Redshift:
 
 <p align="left">
@@ -187,6 +199,8 @@ A fully managed, petabyte-scale data warehouse service for large-scale data anal
 
 * Choosing the right node type (dense compute vs. dense storage) and scaling options (concurrency scaling, elastic resize).
 
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
+
 ## Amazon QuickSight:
 
 <p align="left">
@@ -211,6 +225,8 @@ A cloud-powered business intelligence (BI) service that makes it easy to create 
 
 * Machine learning-powered insights and natural language queries.
 
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
+
 ## AWS Lake Formation:
 
 <p align="left">
@@ -232,6 +248,8 @@ A service that helps you build, secure, and manage data lakes quickly. It simpli
 * Fine-grained access control to data in S3.
 
 * Simplifies data ingestion, cleaning, transformation, and cataloging.
+
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
 
 ## Amazon OpenSearch Service (formerly Amazon Elasticsearch Service):
 
@@ -255,6 +273,8 @@ A fully managed service that makes it easy to deploy, secure, and run OpenSearch
 
 * Scalability for handling large volumes of streaming data.
 
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
+
 ## AWS Data Pipeline:
 
 <p align="left">
@@ -266,6 +286,8 @@ A fully managed service that makes it easy to deploy, secure, and run OpenSearch
 **Use Cases:** Interactive dashboards, embedded analytics
 
 **Highlights:** Serverless, SPICE engine for fast data queries, integration with Athena, Redshift, and RDS.
+
+<hr style="border: 0; height: 3px; background: #0078D4; margin-top: 12px; margin-bottom: 12px;">
 
 ## 🎯 What You’ll Learn:
 
