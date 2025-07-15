@@ -37,11 +37,7 @@ The AWS Identity and Access portfolio is extensive, covering everything from fun
 ## AWS Identity and Access Management (IAM):
 
 <p align="left">
-  <img src="Images/aws-IAM.png" alt="AWS IAM" width="200">
-</p>
-
-<p align="left">
-  <img src="Images/Azure-Networking-Overview-Azure-TrafficManager.png" alt="Azure Traffic Manager" width="400">
+  <img src="Images/aws-IAM.png" alt="AWS IAM" width="150">
 </p>
 
 The cornerstone of AWS security, IAM allows you to securely control access to AWS services and resources. It defines who can be authenticated (users, roles) and authorized (permissions) to use resources.
@@ -73,7 +69,7 @@ The cornerstone of AWS security, IAM allows you to securely control access to AW
 ## AWS Security Token Service (STS):
 
 <p align="left">
-  <img src="Images/aws-sts.png" alt="AWS STS" width="200">
+  <img src="Images/aws-sts.png" alt="AWS STS" width="150">
 </p>
 
 A web service that enables you to request temporary, limited-privilege credentials for IAM users or for users that you authenticate (federated users).
@@ -101,7 +97,7 @@ A web service that enables you to request temporary, limited-privilege credentia
 ## AWS IAM Identity Center (Successor to AWS Single Sign-On - AWS SSO):
 
 <p align="left">
-  <img src="Images/aws-IAM-Identity-center.png" alt="AWS Identity Center" width="200">
+  <img src="Images/aws-IAM-Identity-center.png" alt="AWS Identity Center" width="150">
 </p>
 
 A cloud SSO service that makes it easy to centrally manage access to multiple AWS accounts and business applications. It provides a single point of access for users to all their assigned accounts and applications.
@@ -129,7 +125,7 @@ A cloud SSO service that makes it easy to centrally manage access to multiple AW
 ## AWS Directory Service:
 
 <p align="left">
-  <img src="Images/aws-directory-service.png" alt="AWS Directory Services" width="200">
+  <img src="Images/aws-directory-service.png" alt="AWS Directory Services" width="150">
 </p>
 
 A managed service that allows you to connect your AWS resources to an existing on-premises Microsoft Active Directory or to set up a new, standalone directory in the AWS cloud.
@@ -157,7 +153,7 @@ A managed service that allows you to connect your AWS resources to an existing o
 ## Amazon Cognito:
 
 <p align="left">
-  <img src="Images/Amazon-Cognito.png" alt="AWS Cognito" width="200">
+  <img src="Images/Amazon-Cognito.png" alt="AWS Cognito" width="150">
 </p>
 
 A service that provides authentication, authorization, and user management for your web and mobile applications. It scales to millions of users and supports sign-in with social identity providers (Google, Facebook, Amazon) and enterprise identity providers (SAML, OpenID Connect).
@@ -185,7 +181,7 @@ A service that provides authentication, authorization, and user management for y
 ## AWS Resource Access Manager (RAM):
 
 <p align="left">
-  <img src="Images/AWS-RAM.jpg" alt="AWS RAM" width="200">
+  <img src="Images/AWS-RAM.jpg" alt="AWS RAM" width="150">
 </p>
 
 A service that enables you to easily and securely share your AWS resources with any AWS account or within your AWS Organization. This helps reduce operational overhead by avoiding resource duplication.
@@ -209,7 +205,7 @@ A service that enables you to easily and securely share your AWS resources with 
 ## AWS IAM Access Analyzer:
 
 <p align="left">
-  <img src="Images/aws-IAM-Access-Analyzer.png" alt="AWS IAM Access" width="200">
+  <img src="Images/aws-IAM-Access-Analyzer.png" alt="AWS IAM Access" width="150">
 </p>
 
 A feature that helps you identify resources in your organization and accounts, such as S3 buckets or IAM roles, that are shared with an external entity. It helps you identify unintended access to your resources.
