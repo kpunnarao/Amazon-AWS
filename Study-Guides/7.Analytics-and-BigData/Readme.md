@@ -1,10 +1,10 @@
-# Analytics and Big Data:
+# 📘 Analytics and Big Data:
 
 <p align="left">
   <img src="Images/AWS-Analytics-Services.png" alt="AWS Analytics Services" width="500">
 </p>
 
-## Introduction to Analytics and Big Data on AWS:
+## 📖 Introduction to Analytics and Big Data on AWS:
 
 Introduction to Analytics and Big Data on AWS
 In today's data-driven world, the ability to collect, store, process, and analyze massive volumes of data (Big Data) is a critical competitive advantage for enterprises. The AWS Certified Solutions Architect - Professional exam emphasizes designing and implementing scalable, cost-effective, and secure Big Data and analytics solutions on the AWS cloud. This involves understanding the entire data lifecycle, from ingestion and storage to processing, analysis, and visualization.
